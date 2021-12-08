@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewmamus
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning blockchain development
-- 💞️ 
+- 💞️ I love to code in javascript and play games
 - 📫 How to reach me +2348146987610 or email me muyontech@gmail.com
 
 <!---
